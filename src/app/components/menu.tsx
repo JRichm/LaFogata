@@ -31,36 +31,35 @@ export default function Menu() {
           }, []); 
 
     return (
-        <div>
-            <h1>Taco Cart Menu</h1>
-            <hr className='border-black' />
+        <div className='max-w-[1200px] self-center p-5'>
+            <h1 className='text-4xl font-bold mt-8'>Taco's</h1>
             <div className='grid grid-cols-2'>
                 {menuItems.filter(item => item.itemCategory === 1).map(item => (
                     <MenuItem item={item}/>
                 ))}
             </div>
-            <hr className='border-black' />
+            <h1 className='text-4xl font-bold mt-8'>Sides's</h1>
             <div className='grid grid-cols-2'>
                 {menuItems.filter(item => item.itemCategory === 2).map(item => (
                     <MenuItem item={item}/>
                 ))}
             </div>
-            <hr className='border-black' />
+            <h1 className='text-4xl font-bold mt-8'>Drink's</h1>
             <div className='grid grid-cols-2'>
                 {menuItems.filter(item => item.itemCategory === 3).map(item => (
                     <MenuItem item={item}/>
                 ))}
             </div>
-            <hr className='border-black' />
+            <hr className='border-black/20' />
         </div>
   );
 }
 
 function MenuItem({item}: {item: MenuItemProps}) {
     return (
-        <div key={item.itemID} className='bg-white m-3 p-5'>
-            <h2 className='font-bold'>{item.itemName}</h2>
-            <p>{item.itemDescription}</p>
+        <div key={item.itemID} className='bg-white m-3 p-5 rounded-xl'>
+            <h2 className='font-bold text-2xl'>{item.itemName}</h2>
+            <p className='font-xl'>{item.itemDescription}</p>
             <p className='text-right'>${item.itemPrice}</p>
         </div>
     )
