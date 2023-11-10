@@ -1,144 +1,144 @@
 {
     "cartMenu": [
         {
-            "ItemID" : 0,
-            "ItemCategory": 1,
-            "ItemName": "Carne Asada",
-            "ItemDescription": "Grilled beef, soft corn tortillas, and fresh toppings – our Carne Asada Street Tacos are a taste of Mexico in every bite. Order now for a quick, flavorful feast!",
-            "ItemPrice": 4.99
+            "itemID" : 0,
+            "itemCategory": 1,
+            "itemName": "Carne Asada",
+            "itemDescription": "Grilled beef, soft corn tortillas, and fresh toppings – our Carne Asada Street Tacos are a taste of Mexico in every bite. Order now for a quick, flavorful feast!",
+            "itemPrice": 4.99
         },
         {
-            "ItemID": 1,
-            "ItemCategory": 1,
-            "ItemName": "Pollo Asado",
-            "ItemDescription": "Juicy grilled chicken, nestled in warm corn tortillas, topped with onions, cilantro, and a squeeze of lime. A delicious twist on traditional street tacos.",
-            "ItemPrice": 5.49
+            "itemID": 1,
+            "itemCategory": 1,
+            "itemName": "Pollo Asado",
+            "itemDescription": "Juicy grilled chicken, nestled in warm corn tortillas, topped with onions, cilantro, and a squeeze of lime. A delicious twist on traditional street tacos.",
+            "itemPrice": 5.49
         },
         {
-            "ItemID": 2,
-            "ItemCategory": 1,
-            "ItemName": "Al Pastor",
-            "ItemDescription": "Sliced pork marinated in adobo, char-grilled to perfection. Served on soft corn tortillas with pineapple, onions, and cilantro. A tantalizing fusion of flavors.",
-            "ItemPrice": 5.99
+            "itemID": 2,
+            "itemCategory": 1,
+            "itemName": "Al Pastor",
+            "itemDescription": "Sliced pork marinated in adobo, char-grilled to perfection. Served on soft corn tortillas with pineapple, onions, and cilantro. A tantalizing fusion of flavors.",
+            "itemPrice": 5.99
         },
         {
-            "ItemID": 3,
-            "ItemCategory": 1,
-            "ItemName": "Carnitas",
-            "ItemDescription": "Slow-cooked, tender pork, piled high on corn tortillas. Topped with diced onions, fresh cilantro, and a hint of lime. A classic favorite!",
-            "ItemPrice": 5.79
+            "itemID": 3,
+            "itemCategory": 1,
+            "itemName": "Carnitas",
+            "itemDescription": "Slow-cooked, tender pork, piled high on corn tortillas. Topped with diced onions, fresh cilantro, and a hint of lime. A classic favorite!",
+            "itemPrice": 5.79
         },
         {
-            "ItemID": 4,
-            "ItemCategory": 1,
-            "ItemName": "Chorizo",
-            "ItemDescription": "Spicy Mexican sausage, cradled in warm corn tortillas. Garnished with onions, cilantro, and a zesty kick. A bold and flavorful choice.",
-            "ItemPrice": 6.29
+            "itemID": 4,
+            "itemCategory": 1,
+            "itemName": "Chorizo",
+            "itemDescription": "Spicy Mexican sausage, cradled in warm corn tortillas. Garnished with onions, cilantro, and a zesty kick. A bold and flavorful choice.",
+            "itemPrice": 6.29
         },
         {
-            "ItemID": 5,
-            "ItemCategory": 2,
-            "ItemName": "Quesadilla",
-            "ItemDescription": "Melted cheese sandwiched between two flour tortillas, with your choice of meat. Served with salsa and guacamole on the side.",
-            "ItemPrice": 7.99
+            "itemID": 5,
+            "itemCategory": 2,
+            "itemName": "Quesadilla",
+            "itemDescription": "Melted cheese sandwiched between two flour tortillas, with your choice of meat. Served with salsa and guacamole on the side.",
+            "itemPrice": 7.99
         },
         {
-            "ItemID": 6,
-            "ItemCategory": 2,
-            "ItemName": "Nachos Supreme",
-            "ItemDescription": "Crunchy tortilla chips loaded with melted cheese, beans, your choice of meat, guacamole, sour cream, and pico de gallo. The ultimate nacho experience.",
-            "ItemPrice": 8.49
+            "itemID": 6,
+            "itemCategory": 2,
+            "itemName": "Nachos Supreme",
+            "itemDescription": "Crunchy tortilla chips loaded with melted cheese, beans, your choice of meat, guacamole, sour cream, and pico de gallo. The ultimate nacho experience.",
+            "itemPrice": 8.49
         },
         {
-            "ItemID": 7,
-            "ItemCategory": 2,
-            "ItemName": "Elote (Street Corn)",
-            "ItemDescription": "Grilled corn on the cob smothered in a savory blend of mayonnaise, cotija cheese, chili powder, and lime. A street food favorite.",
-            "ItemPrice": 3.99
+            "itemID": 7,
+            "itemCategory": 2,
+            "itemName": "Elote (Street Corn)",
+            "itemDescription": "Grilled corn on the cob smothered in a savory blend of mayonnaise, cotija cheese, chili powder, and lime. A street food favorite.",
+            "itemPrice": 3.99
         },
         {
-            "ItemID": 8,
-            "ItemCategory": 3,
-            "ItemName": "Horchata",
-            "ItemDescription": "Sweet and creamy rice milk infused with cinnamon. The perfect refreshing drink to complement your taco feast.",
-            "ItemPrice": 2.49
+            "itemID": 8,
+            "itemCategory": 3,
+            "itemName": "Horchata",
+            "itemDescription": "Sweet and creamy rice milk infused with cinnamon. The perfect refreshing drink to complement your taco feast.",
+            "itemPrice": 2.49
         },
         {
-            "ItemID": 9,
-            "ItemCategory": 3,
-            "ItemName": "Agua Fresca",
-            "ItemDescription": "Fruit-infused water with a touch of sweetness. Choose from flavors like watermelon, pineapple, or cucumber for a refreshing sip.",
-            "ItemPrice": 2.99
+            "itemID": 9,
+            "itemCategory": 3,
+            "itemName": "Agua Fresca",
+            "itemDescription": "Fruit-infused water with a touch of sweetness. Choose from flavors like watermelon, pineapple, or cucumber for a refreshing sip.",
+            "itemPrice": 2.99
         },
         {
-            "ItemID": 10,
-            "ItemCategory": 3,
-            "ItemName": "Jarritos",
-            "ItemDescription": "Mexican soda in assorted fruity flavors – a perfect fizzy companion to your taco experience.",
-            "ItemPrice": 1.99
+            "itemID": 10,
+            "itemCategory": 3,
+            "itemName": "Jarritos",
+            "itemDescription": "Mexican soda in assorted fruity flavors – a perfect fizzy companion to your taco experience.",
+            "itemPrice": 1.99
         },
         {
-            "ItemID": 11,
-            "ItemCategory": 3,
-            "ItemName": "Mexican Hot Chocolate",
-            "ItemDescription": "Rich and indulgent hot chocolate with a hint of cinnamon. A comforting beverage choice.",
-            "ItemPrice": 3.29
+            "itemID": 11,
+            "itemCategory": 3,
+            "itemName": "Mexican Hot Chocolate",
+            "itemDescription": "Rich and indulgent hot chocolate with a hint of cinnamon. A comforting beverage choice.",
+            "itemPrice": 3.29
         },
         {
-            "ItemID": 12,
-            "ItemCategory": 1,
-            "ItemName": "Birria",
-            "ItemDescription": "Tender, slow-cooked shredded beef, wrapped in corn tortillas. Served with a side of consommé for dipping. A flavorful and comforting choice.",
-            "ItemPrice": 6.99
+            "itemID": 12,
+            "itemCategory": 1,
+            "itemName": "Birria",
+            "itemDescription": "Tender, slow-cooked shredded beef, wrapped in corn tortillas. Served with a side of consommé for dipping. A flavorful and comforting choice.",
+            "itemPrice": 6.99
         },
         {
-            "ItemID": 13,
-            "ItemCategory": 1,
-            "ItemName": "Lengua",
-            "ItemDescription": "Beef tongue, cooked to perfection and nestled in warm corn tortillas. Topped with onions, cilantro, and a squeeze of lime. A savory delicacy.",
-            "ItemPrice": 7.49
+            "itemID": 13,
+            "itemCategory": 1,
+            "itemName": "Lengua",
+            "itemDescription": "Beef tongue, cooked to perfection and nestled in warm corn tortillas. Topped with onions, cilantro, and a squeeze of lime. A savory delicacy.",
+            "itemPrice": 7.49
         },
         {
-            "ItemID": 14,
-            "ItemCategory": 1,
-            "ItemName": "Vegetarian Tacos",
-            "ItemDescription": "Grilled veggies, black beans, and cheese tucked into soft corn tortillas. A delicious meat-free option bursting with flavor.",
-            "ItemPrice": 5.99
+            "itemID": 14,
+            "itemCategory": 1,
+            "itemName": "Vegetarian Tacos",
+            "itemDescription": "Grilled veggies, black beans, and cheese tucked into soft corn tortillas. A delicious meat-free option bursting with flavor.",
+            "itemPrice": 5.99
         },
         {
-            "ItemID": 15,
-            "ItemCategory": 1,
-            "ItemName": "Fish Tacos",
-            "ItemDescription": "Crispy, beer-battered fish fillets in warm corn tortillas. Topped with cabbage slaw, chipotle mayo, and a squeeze of lime. A seafood delight.",
-            "ItemPrice": 7.99
+            "itemID": 15,
+            "itemCategory": 1,
+            "itemName": "Fish Tacos",
+            "itemDescription": "Crispy, beer-battered fish fillets in warm corn tortillas. Topped with cabbage slaw, chipotle mayo, and a squeeze of lime. A seafood delight.",
+            "itemPrice": 7.99
         },
         {
-            "ItemID": 16,
-            "ItemCategory": 2,
-            "ItemName": "Guacamole and Chips",
-            "ItemDescription": "Creamy, homemade guacamole served with a side of crispy tortilla chips. The perfect starter or snack.",
-            "ItemPrice": 4.49
+            "itemID": 16,
+            "itemCategory": 2,
+            "itemName": "Guacamole and Chips",
+            "itemDescription": "Creamy, homemade guacamole served with a side of crispy tortilla chips. The perfect starter or snack.",
+            "itemPrice": 4.49
         },
         {
-            "ItemID": 17,
-            "ItemCategory": 2,
-            "ItemName": "Sopes",
-            "ItemDescription": "Thick corn tortillas topped with beans, your choice of meat, lettuce, cheese, and salsa. A satisfying and savory dish.",
-            "ItemPrice": 6.79
+            "itemID": 17,
+            "itemCategory": 2,
+            "itemName": "Sopes",
+            "itemDescription": "Thick corn tortillas topped with beans, your choice of meat, lettuce, cheese, and salsa. A satisfying and savory dish.",
+            "itemPrice": 6.79
         },
         {
-            "ItemID": 18,
-            "ItemCategory": 2,
-            "ItemName": "Tostadas",
-            "ItemDescription": "Crispy corn tortillas layered with beans, your choice of meat, lettuce, cheese, and salsa. A crunchy and flavorful delight.",
-            "ItemPrice": 6.29
+            "itemID": 18,
+            "itemCategory": 2,
+            "itemName": "Tostadas",
+            "itemDescription": "Crispy corn tortillas layered with beans, your choice of meat, lettuce, cheese, and salsa. A crunchy and flavorful delight.",
+            "itemPrice": 6.29
         },
         {
-            "ItemID": 19,
-            "ItemCategory": 3,
-            "ItemName": "Mexican Coffee",
-            "ItemDescription": "Robust coffee brewed with a touch of cinnamon. A warm and aromatic way to complete your meal.",
-            "ItemPrice": 2.79
+            "itemID": 19,
+            "itemCategory": 3,
+            "itemName": "Mexican Coffee",
+            "itemDescription": "Robust coffee brewed with a touch of cinnamon. A warm and aromatic way to complete your meal.",
+            "itemPrice": 2.79
         }
     ]
 }
