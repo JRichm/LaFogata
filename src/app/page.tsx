@@ -4,14 +4,12 @@ import Locations from './components/locations'
 
 export default function Home() {
   return (
-    <main className="flex flex-col">
+    <main className="flex flex-col justify-center align-tc">
       <div className="bg-gray-200 min-h-60 flex flex-col">
         <div className='flex flex-row justify-between w-[900px]'>
           <p>contact</p>
           <p>search</p>
           <p>menu</p>
-        </div>
-        <div className='flex justify-center'>
         </div>
       </div>
       <div className='bg-red-100 text-3xl h-[600px] flex justify-center'>
@@ -26,7 +24,7 @@ export default function Home() {
         <p className="text-3xl">locations</p>
         <Locations />
       </div>
-      <div className='bg-green-200 min-h-[400px] flex flex-col pt-6'>
+      <div className='bg-green-200 w-full min-h-[400px] flex flex-col pt-6'>
         <p className="text-3xl self-center">menu</p>
         <Menu />
       </div>
